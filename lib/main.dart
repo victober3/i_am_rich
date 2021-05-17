@@ -13,7 +13,7 @@ void main() {
           backgroundColor: Colors.blueGrey[900], //AppBar widget's properties
         ),
         body: Center(
-          child: Image(image: AssetImage('images/diamond.jpg')),
+          child: Image(image: AssetImage('images/diamond.jpg')),//for image
         ),
       ),
     ),
